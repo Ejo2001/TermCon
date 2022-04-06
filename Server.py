@@ -7,7 +7,7 @@ import platform
 
 
 #Connection settings
-IP = "" #Set own IP here
+IP = "0.0.0.0" #Set own IP here
 Port = 5000 #Port to connect to
 Address = (IP, Port)
 S = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
