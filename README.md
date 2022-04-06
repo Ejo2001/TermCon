@@ -7,7 +7,7 @@ When we started the Python course, I asked my teacher what the end project would
 
 Step 1. 
 
-Download the project on the server ```git clone https://github.com/Ejo2001/Guestbook.git```
+Download the project on the server ```git clone https://github.com/Ejo2001/TermCon.git```
 
 Step 2.
 
