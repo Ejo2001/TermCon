@@ -24,7 +24,7 @@ You can change port in the script on line 11. Customize it to your liking. Remem
 
 Step 1. 
 
-Download the project on the client ```git clone https://github.com/Ejo2001/Guestbook.git```
+Download the project on the client ```git clone https://github.com/Ejo2001/TermCon.git```
 
 Step 2.
 
